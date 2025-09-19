@@ -1,2 +1,4 @@
 cohere
 python-dotenv
+flask
+requests

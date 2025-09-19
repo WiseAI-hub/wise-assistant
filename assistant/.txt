@@ -1,7 +1,0 @@
-[1] facil uso
-
-[2] facil declaração de tools
-
-[3] facil import do agent
-
-[4] todas as peças independentes para facil manutenção
